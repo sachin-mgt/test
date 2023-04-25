@@ -1,0 +1,130 @@
+[2023-04-20T17:30:18.392900+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-20T18:10:32.812456+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-20T18:17:04.664277+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-20T18:20:25.295509+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-20T18:23:17.678914+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-20T18:23:25.927986+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-20T18:26:07.517214+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T10:59:56.036803+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => website
+)
+ [] []
+[2023-04-24T11:06:51.175678+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => store_group
+)
+ [] []
+[2023-04-24T11:07:09.995479+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => store_group
+)
+ [] []
+[2023-04-24T11:08:32.771178+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => store
+)
+ [] []
+[2023-04-24T11:29:37.579033+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T11:44:02.147754+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T12:00:54.406597+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T12:01:03.087201+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T12:16:10.890606+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T12:16:17.887186+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T12:53:17.044075+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T13:01:11.415960+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T13:02:36.918218+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-24T13:02:43.767968+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => .*
+)
+ [] []
+[2023-04-25T09:35:46.020962+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => EAV_ATTRIBUTE_77
+)
+ [] []
+[2023-04-25T09:35:46.138124+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => EAV_ATTRIBUTE_78
+)
+ [] []
+[2023-04-25T09:35:46.153282+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => EAV_ATTRIBUTE_98
+)
+ [] []
+[2023-04-25T09:35:46.168206+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => EAV_ATTRIBUTE_123
+)
+ [] []
+[2023-04-25T09:35:46.183502+00:00] mgt-varnish-logger.DEBUG: Varnish Cache purged by following tags: Array
+(
+    [0] => EAV_ATTRIBUTE_81
+)
+ [] []
